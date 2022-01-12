@@ -48,7 +48,7 @@ if avg_over_lev:
 
 # %%
 to_case = 'NFHISTnorsecpddmsbcsdyn_f09_f09_mg17'
-from_cases = ['NFHISTnorsecpddmsbcsdyn_f09_f09_mg17']
+from_cases = ['NFHISTnorsecpddmsbcsdyn_f09_f09_mg17_1p1']
 cases1 = [from_cases[0], to_case]
 
 # %%
@@ -85,7 +85,7 @@ varl_aero2 = [
 # %%
 varl_aero_sec = ['nrSOA_SEC_tot', 'nrSO4_SEC_tot', 'nrSEC_tot',
                  'cb_SOA_SEC01', 'cb_SOA_SEC02', 'cb_SOA_SEC03',
-                 'leaveSecH2SO4', 'leaveSecSOA',
+                 
                  ]
 
 # %%
