@@ -1,6 +1,6 @@
 ## Documentation and development for implementation of sectional scheme as namelist option in CAM-Nor
 
-This repository contains the analysis of a series of tests concerning the technical implementation of the sectional scheme (see Blichner et al (2021a)) as an option when running NorESM2 (Seland et al, 2020).
+This repository contains the analysis of a series of tests concerning the technical implementation of the sectional scheme (see Blichner et al (2021b)) as an option when running NorESM2 (Seland et al, 2020).
 
 Firstly, notebook [imp_sec_cam_nor/notebooks/check_case.py](imp_sec_cam_nor/notebooks/check_case.ipynb) contains a series of very short tests for checking that inclusion of documentation and technical changes in the setup does not change the results. 
 
